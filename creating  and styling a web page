@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<title>aalaa moussaid el idrissi</title>
+
+<link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+    <div>
+
+        <h1>aalaa moussaid el idrissi</h1>
+
+    </div>
+
+    <div>
+
+        <img src="photo.jpg" id="photo" alt="">
+
+    </div>
+
+    <div>
+
+        <h2>Favorite Music Artists</h2>
+
+        <ul>
+
+            <li>hans zimmer</li>
+
+            <li>arjit singh</li>
+
+            <li>chopin</li>
+
+            <li>The Weeknd</li>
+
+            <li>Adele</li>
+
+        </ul>
+
+    </div>
+
+    <div>
+
+        <h2>Favorite Films</h2>
+
+        <ol>
+
+            <li>interstellar</li>
+
+            <li>the big short</li>
+
+            <li>molly's game</li>
+
+            <li>ocean 11</li>
+
+            <li>hidden figures</li>
+
+        </ol>
+
+    </div>
+
+    <div>
+
+        <a href="https://www.meta.com/">My Profile</a>
+
+    </div>
+
+</body>
+
+</html>
